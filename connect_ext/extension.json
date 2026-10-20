@@ -1,0 +1,8 @@
+{
+  "name": "EaaS Builder Python Test",
+  "description": "Test extension that logs the Python version it runs on.",
+  "version": "1.0.0",
+  "audience": ["vendor"],
+  "readme_url": "https://github.com/qarlosh/eaas-builder-python-test/blob/master/README.md",
+  "changelog_url": "https://github.com/qarlosh/eaas-builder-python-test/blob/master/README.md"
+}
