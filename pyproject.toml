@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "eaas-builder-python-test"
-version = "1.10.0"
+version = "1.11.0"
 description = "Test extension that logs the Python version it runs on."
 authors = ["qarlosh"]
 license = "Apache Software License 2.0"
@@ -13,7 +13,7 @@ readme = "./README.md"
 "eventsapp" = "connect_ext.events:EaasBuilderPythonTestEventsApplication"
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.11"
+python = ">=3.11,<3.12"
 connect-eaas-core = ">=37.3,<39"
 # A small dependency the runner does not ship, so requirements.txt is not empty.
 humanize = "^4.9"
